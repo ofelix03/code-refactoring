@@ -1,2 +1,2 @@
 # code-refactoring
-A few examples of code with poor quality and a rewrite with focus on clarity and comprehension
+A few examples of poor quality code and a rewrite focusing on clarity and comprehension
